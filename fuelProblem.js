@@ -3,4 +3,5 @@ function calcualteFuel(mass) {
   return Math.floor(mass/3) - 2 ;
 };
 
-console.log(calcualteFuel(42));
+let testRun = calcualteFuel(42);
+console.log(testRun);
