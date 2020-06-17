@@ -1,0 +1,20 @@
+{
+  "name": "Brain-Teaser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fuelProblem.js",
+  "scripts": {
+    "test": "node fuelProblem.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgar-orange/Brain-Teaser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgar-orange/Brain-Teaser/issues"
+  },
+  "homepage": "https://github.com/edgar-orange/Brain-Teaser#readme"
+}
